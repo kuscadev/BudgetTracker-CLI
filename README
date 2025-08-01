@@ -1,0 +1,37 @@
+# BudgetTracker-CLI
+
+A simple command-line budget tracking application written in C#.  
+This project was created as part of my journey to learn and improve my C# programming skills.
+
+## Features
+
+- Input monthly income.
+- Add multiple expenses with categories.
+- View a summary of expenses grouped by category with percentage breakdown.
+- Calculate monthly savings based on income and total expenses.
+- Simple and easy-to-use CLI interface.
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/kuscadev/BudgetTracker-CLI.git
+   ```
+2. Navigate to the project directory and build the project using the .NET CLI:
+   ```bash
+   dotnet build
+   ```
+3. Run the application:
+   ```bash
+   dotnet run
+   ```
+4. Follow the prompts to enter your monthly income, currency, and expenses.
+
+## Notes
+
+- This is a learning project, aimed at practicing basic C# programming concepts such as lists, loops, LINQ, and console input/output.
+- Input validation and error handling are minimal; use appropriate numeric inputs to avoid runtime errors.
+
+---
+
+Feel free to contribute or suggest improvements!
