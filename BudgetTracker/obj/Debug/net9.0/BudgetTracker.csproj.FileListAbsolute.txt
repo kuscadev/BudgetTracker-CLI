@@ -1,0 +1,14 @@
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/bin/Debug/net9.0/BudgetTracker
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/bin/Debug/net9.0/BudgetTracker.deps.json
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/bin/Debug/net9.0/BudgetTracker.runtimeconfig.json
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/bin/Debug/net9.0/BudgetTracker.dll
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/bin/Debug/net9.0/BudgetTracker.pdb
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.GeneratedMSBuildEditorConfig.editorconfig
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.AssemblyInfoInputs.cache
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.AssemblyInfo.cs
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.csproj.CoreCompileInputs.cache
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.dll
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/refint/BudgetTracker.dll
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.pdb
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/BudgetTracker.genruntimeconfig.cache
+/home/oguzhan/Documents/GitHub/BudgetTrackter-CLI/BudgetTracker/obj/Debug/net9.0/ref/BudgetTracker.dll
