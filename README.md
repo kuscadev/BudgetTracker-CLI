@@ -14,17 +14,23 @@ This project was created as part of my journey to learn and improve my C# progra
 ## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/kuscadev/BudgetTracker-CLI.git
    ```
+
 2. Navigate to the project directory and build the project using the .NET CLI:
+
    ```bash
    dotnet build
    ```
+
 3. Run the application:
+
    ```bash
    dotnet run
    ```
+
 4. Follow the prompts to enter your monthly income, currency, and expenses.
 
 ## Notes
